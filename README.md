@@ -5,4 +5,4 @@ This project is done.
 
 Paper: https://www.overleaf.com/read/znmgdwktqqck
 
-Google Slides: https://docs.google.com/presentation/d/1Yi6lkrQ4a91_uqSmim33fOknnPaibZVDXNvPbgM4Ubc/edit?usp=sharing
+Presentation Slides: https://docs.google.com/presentation/d/1Yi6lkrQ4a91_uqSmim33fOknnPaibZVDXNvPbgM4Ubc/edit?usp=sharing
